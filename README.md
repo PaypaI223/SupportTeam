@@ -6,7 +6,7 @@ For questions or assistance, please reach out to our Billing  Desk team at +1 84
 
 Billing Information
 
-Invoice Number: INV5568758P
+Invoice Number: INV5568758P 
 
 Product: BTC (0.0052 BTC)
 
