@@ -4,7 +4,7 @@ This email confirms that your PayPal payment has been successfully processed. Yo
 
 For questions or assistance, please reach out to our Billing  Desk team at +1 843 270 7775. 
 
-Billing Information
+Billing Information 
 
 Invoice Number: INV5568758P 
 
